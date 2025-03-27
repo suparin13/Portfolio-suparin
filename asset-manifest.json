@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d790df83.css",
-    "main.js": "/portfolio/static/js/main.c113a14f.js",
-    "static/media/profile.jpg": "/portfolio/static/media/profile.c31f476e3f4d4287e545.jpg",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fa-solid-900.ttf": "/portfolio/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
-    "static/media/bg.png": "/portfolio/static/media/bg.6e84810c2172c997a65f.png",
-    "static/media/fa-brands-400.ttf": "/portfolio/static/media/fa-brands-400.1815e00441357e01619e.ttf",
-    "static/media/fontawesome-webfont.eot": "/portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fa-solid-900.woff2": "/portfolio/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
-    "static/media/fa-brands-400.woff2": "/portfolio/static/media/fa-brands-400.c210719e60948b211a12.woff2",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/fa-regular-400.ttf": "/portfolio/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
-    "static/media/fa-regular-400.woff2": "/portfolio/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
-    "static/media/fa-v4compatibility.ttf": "/portfolio/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
-    "static/media/fa-v4compatibility.woff2": "/portfolio/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
-    "index.html": "/portfolio/index.html",
-    "main.d790df83.css.map": "/portfolio/static/css/main.d790df83.css.map",
-    "main.c113a14f.js.map": "/portfolio/static/js/main.c113a14f.js.map"
+    "main.css": "/Portfolio-suparin/static/css/main.3137df55.css",
+    "main.js": "/Portfolio-suparin/static/js/main.35e860df.js",
+    "static/media/profile.jpg": "/Portfolio-suparin/static/media/profile.c31f476e3f4d4287e545.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Portfolio-suparin/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fa-solid-900.ttf": "/Portfolio-suparin/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/bg.png": "/Portfolio-suparin/static/media/bg.6e84810c2172c997a65f.png",
+    "static/media/fa-brands-400.ttf": "/Portfolio-suparin/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fontawesome-webfont.eot": "/Portfolio-suparin/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Portfolio-suparin/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fa-solid-900.woff2": "/Portfolio-suparin/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/Portfolio-suparin/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Portfolio-suparin/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Portfolio-suparin/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/fa-regular-400.ttf": "/Portfolio-suparin/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-regular-400.woff2": "/Portfolio-suparin/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Portfolio-suparin/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Portfolio-suparin/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/Portfolio-suparin/index.html",
+    "main.3137df55.css.map": "/Portfolio-suparin/static/css/main.3137df55.css.map",
+    "main.35e860df.js.map": "/Portfolio-suparin/static/js/main.35e860df.js.map"
   },
   "entrypoints": [
-    "static/css/main.d790df83.css",
-    "static/js/main.c113a14f.js"
+    "static/css/main.3137df55.css",
+    "static/js/main.35e860df.js"
   ]
 }
